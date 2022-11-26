@@ -1,0 +1,41 @@
+body {
+    background-color: rgb(229, 233, 236);
+}
+
+
+.navigation {
+display: flex;
+background-color: rgb(50, 54, 67);
+}
+
+.nav1 {
+    padding: 10px;
+}
+
+a {
+    text-decoration: none;
+    color: black;
+}
+div>a {
+    color: white;
+    
+}
+
+a:hover {
+    text-decoration: underline;
+    color: coral;
+}
+
+
+.jumbotron {
+    background-color: #E9ECEF;
+}
+
+.center {
+    text-align: center;
+}
+
+img {
+    width: 100%;
+}
+
